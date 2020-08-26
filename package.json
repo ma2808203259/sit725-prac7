@@ -1,0 +1,26 @@
+{
+  "name": "sit725-prac6",
+  "version": "1.0.0",
+  "description": "template for sit725 practice",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma2808203259/sit725-prac6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ma2808203259/sit725-prac6/issues"
+  },
+  "homepage": "https://github.com/ma2808203259/sit725-prac6#readme",
+  "keywords": []
+}
